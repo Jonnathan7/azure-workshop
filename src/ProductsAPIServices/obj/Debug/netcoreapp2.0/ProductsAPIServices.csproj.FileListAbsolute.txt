@@ -1,0 +1,13 @@
+D:\Jonnathan\2022\GIT\azure-workshop\src\ProductsAPIServices\bin\Debug\netcoreapp2.0\ProductsAPIServices.deps.json
+D:\Jonnathan\2022\GIT\azure-workshop\src\ProductsAPIServices\bin\Debug\netcoreapp2.0\ProductsAPIServices.runtimeconfig.json
+D:\Jonnathan\2022\GIT\azure-workshop\src\ProductsAPIServices\bin\Debug\netcoreapp2.0\ProductsAPIServices.runtimeconfig.dev.json
+D:\Jonnathan\2022\GIT\azure-workshop\src\ProductsAPIServices\bin\Debug\netcoreapp2.0\ProductsAPIServices.dll
+D:\Jonnathan\2022\GIT\azure-workshop\src\ProductsAPIServices\bin\Debug\netcoreapp2.0\ProductsAPIServices.pdb
+D:\Jonnathan\2022\GIT\azure-workshop\src\ProductsAPIServices\obj\Debug\netcoreapp2.0\ProductsAPIServices.csproj.AssemblyReference.cache
+D:\Jonnathan\2022\GIT\azure-workshop\src\ProductsAPIServices\obj\Debug\netcoreapp2.0\ProductsAPIServices.GeneratedMSBuildEditorConfig.editorconfig
+D:\Jonnathan\2022\GIT\azure-workshop\src\ProductsAPIServices\obj\Debug\netcoreapp2.0\ProductsAPIServices.AssemblyInfoInputs.cache
+D:\Jonnathan\2022\GIT\azure-workshop\src\ProductsAPIServices\obj\Debug\netcoreapp2.0\ProductsAPIServices.AssemblyInfo.cs
+D:\Jonnathan\2022\GIT\azure-workshop\src\ProductsAPIServices\obj\Debug\netcoreapp2.0\ProductsAPIServices.csproj.CoreCompileInputs.cache
+D:\Jonnathan\2022\GIT\azure-workshop\src\ProductsAPIServices\obj\Debug\netcoreapp2.0\ProductsAPIServices.dll
+D:\Jonnathan\2022\GIT\azure-workshop\src\ProductsAPIServices\obj\Debug\netcoreapp2.0\ProductsAPIServices.pdb
+D:\Jonnathan\2022\GIT\azure-workshop\src\ProductsAPIServices\obj\Debug\netcoreapp2.0\ProductsAPIServices.genruntimeconfig.cache

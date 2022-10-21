@@ -8,3 +8,16 @@ C:\Users\joyapu\Proyectos\Demos\src\APIGatewayDemo\CustomersAPIServices\obj\Debu
 C:\Users\joyapu\Proyectos\Demos\src\APIGatewayDemo\CustomersAPIServices\obj\Debug\netcoreapp2.0\CustomersAPIServices.AssemblyInfo.cs
 C:\Users\joyapu\Proyectos\Demos\src\APIGatewayDemo\CustomersAPIServices\obj\Debug\netcoreapp2.0\CustomersAPIServices.dll
 C:\Users\joyapu\Proyectos\Demos\src\APIGatewayDemo\CustomersAPIServices\obj\Debug\netcoreapp2.0\CustomersAPIServices.pdb
+D:\Jonnathan\2022\GIT\azure-workshop\src\CustomersAPIServices\bin\Debug\netcoreapp2.0\CustomersAPIServices.deps.json
+D:\Jonnathan\2022\GIT\azure-workshop\src\CustomersAPIServices\bin\Debug\netcoreapp2.0\CustomersAPIServices.runtimeconfig.json
+D:\Jonnathan\2022\GIT\azure-workshop\src\CustomersAPIServices\bin\Debug\netcoreapp2.0\CustomersAPIServices.runtimeconfig.dev.json
+D:\Jonnathan\2022\GIT\azure-workshop\src\CustomersAPIServices\bin\Debug\netcoreapp2.0\CustomersAPIServices.dll
+D:\Jonnathan\2022\GIT\azure-workshop\src\CustomersAPIServices\bin\Debug\netcoreapp2.0\CustomersAPIServices.pdb
+D:\Jonnathan\2022\GIT\azure-workshop\src\CustomersAPIServices\obj\Debug\netcoreapp2.0\CustomersAPIServices.csproj.AssemblyReference.cache
+D:\Jonnathan\2022\GIT\azure-workshop\src\CustomersAPIServices\obj\Debug\netcoreapp2.0\CustomersAPIServices.GeneratedMSBuildEditorConfig.editorconfig
+D:\Jonnathan\2022\GIT\azure-workshop\src\CustomersAPIServices\obj\Debug\netcoreapp2.0\CustomersAPIServices.AssemblyInfoInputs.cache
+D:\Jonnathan\2022\GIT\azure-workshop\src\CustomersAPIServices\obj\Debug\netcoreapp2.0\CustomersAPIServices.AssemblyInfo.cs
+D:\Jonnathan\2022\GIT\azure-workshop\src\CustomersAPIServices\obj\Debug\netcoreapp2.0\CustomersAPIServices.csproj.CoreCompileInputs.cache
+D:\Jonnathan\2022\GIT\azure-workshop\src\CustomersAPIServices\obj\Debug\netcoreapp2.0\CustomersAPIServices.dll
+D:\Jonnathan\2022\GIT\azure-workshop\src\CustomersAPIServices\obj\Debug\netcoreapp2.0\CustomersAPIServices.pdb
+D:\Jonnathan\2022\GIT\azure-workshop\src\CustomersAPIServices\obj\Debug\netcoreapp2.0\CustomersAPIServices.genruntimeconfig.cache
